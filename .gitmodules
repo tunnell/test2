@@ -1,3 +1,6 @@
 [submodule "nest"]
 	path = nest
 	url = git@github.com:mszydagis/NobleElementSimulationTechnique.git
+[submodule "xenon"]
+	path = xenon
+	url = git@github.com:XENON1T/NobleElementSimulationTechnique.git
